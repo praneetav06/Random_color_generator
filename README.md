@@ -24,7 +24,7 @@ A simple web application that generates random colors at the click of a button. 
 - Click the "Generate color" button to create random colors.
 - Use the displayed RGB values in your projects.
 
-🤝 Contributing
+## 🤝 Contributing
 - Contributions are welcome! If you'd like to improve this project, please fork the repository and submit a pull request.
 
 Made with ❤️ by Praneeta Verma
